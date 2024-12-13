@@ -51,7 +51,7 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 
 ### ⚡ Fun Fact
 
-I'm a travel enthusiast who enjoys exploring new tech stacks and writing about them in my spare time! 😄
+I'm a travel enthusiast who enjoys exploring security and cloud and writing about them in my spare time! 😄
 
 
 - ![Singapore](https://flagcdn.com/w40/sg.png) Singapore
