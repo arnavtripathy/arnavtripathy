@@ -34,10 +34,11 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### **Cyber Security & Incident Response**
+#### **Cyber Security specific*
 - Application Security Testing
 - DevSecOps Implementation
-- Incident Response
+- Security automation
+- Incident Response and malware analysis(basics but eager to work in)
 
 ---
 
