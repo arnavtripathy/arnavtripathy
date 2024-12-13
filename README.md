@@ -1,7 +1,7 @@
 ## About me
 
 <div>
-    <img src="about_arnav.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_arnav.gif" alt="About Me Terminal GIF"/>
 </div>
 
 
