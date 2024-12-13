@@ -42,14 +42,6 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 
 ---
 
-### 🚀 Currently
-
-- 🔭 **Working On**: Projects in Information-Centric Networking and advancing DevSecOps automation.
-- 🌱 **Learning**: Advanced topics in distributed systems and cybersecurity.
-- 🤔 **Looking for Help With**: Exploring cutting-edge security tools and techniques.
-
----
-
 ### 💬 Reach Out To Me
 
 - **📫 LinkedIn**: [Arnav Tripathy](https://in.linkedin.com/in/arnav-tripathy)
