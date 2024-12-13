@@ -15,8 +15,8 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 - **🎓 Education**: Graduated from Vellore Institute of Technology in 2021 with a B.Tech in Computer Science and Engineering. Currently pursuing a **Master's Degree in Computer Science** at Trinity College Dublin.
 
 - **💼 Professional Experience**:
-  - **Browserstack**: Cyber Security and DevOps Engineer (2022 - 2024)
-  - **Cloudsek**: Cyber Security Analyst (2021 - 2022)
+  - **Browserstack**: Security Software Engineer (2022 - 2024)
+  - **Cloudsek**: Cyber Security Analyst and DevOps Engineer (2021 - 2022)
 
 ---
 
