@@ -15,8 +15,8 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 - **🎓 Education**: Graduated from Vellore Institute of Technology in 2021 with a B.Tech in Computer Science and Engineering. Currently pursuing a **Master's Degree in Computer Science** at Trinity College Dublin.
 
 - **💼 Professional Experience**:
-  - **Browserstack**: Security Software Engineer (2022 - 2024)
-  - **Cloudsek**: Cyber Security Analyst and DevOps Engineer (2021 - 2022)
+  - [**Browserstack**](https://www.browserstack.com/): Security Software Engineer (2022 - 2024)
+  - [**Cloudsek**](https://www.cloudsek.com/): Cyber Security Analyst and DevOps Engineer (2021 - 2022)
 
 ---
 
@@ -54,9 +54,21 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 Here are some of the certifications I've earned:
 
 [![Certification](https://images.credly.com/size/160x160/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png)](https://www.credly.com/badges/2b02a926-3164-4b68-be18-f1b93eac10fc)
-
-
-
+<a href="https://www.credential.net/265b925c-e151-4bc0-9a20-434ed9895c6b">
+  <img src="./assets/crtp_badge.png" alt="CRTP" width="160" height="160">
+</a>
+<a href="https://www.credential.net/4565726e-7d17-4d2f-90d1-50fb15b2bc0b">
+  <img src="./assets/crte_badge.png" alt="CRTE" width="160" height="160">
+</a>
+<a href="https://www.credential.net/44547d87-5875-4ca6-b240-313de485c2d9">
+  <img src="./assets/endp_badge.png" alt="ENDP" width="160" height="160">
+</a>
+<a href="https://www.credential.net/69d99d1f-6982-49a0-aba5-1d1fc957cd5d">
+  <img src="./assets/ejpt_badge.png" alt="EJPT" width="160" height="160">
+</a>
+<a href="https://www.credential.net/8f1fb106-2deb-42b0-bd5e-775ae2ca277a">
+  <img src="./assets/crta_badge.png" alt="CRTA" width="160" height="160">
+</a>
 <a href="https://www.credly.com/badges/67a98a93-efc0-42c1-9a61-13cf4ac5be4f">
   <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Certification" width="160" height="160">
 </a>
