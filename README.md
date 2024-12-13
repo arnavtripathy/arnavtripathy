@@ -49,6 +49,27 @@ I am a **Cyber Security** and **DevOps Engineer** with a passion for building se
 
 ---
 
+### 📜 Certifications
+
+Here are some of the certifications I've earned:
+
+[![Certification](https://images.credly.com/size/160x160/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png)](https://www.credly.com/badges/2b02a926-3164-4b68-be18-f1b93eac10fc)
+
+
+
+<a href="https://www.credly.com/badges/67a98a93-efc0-42c1-9a61-13cf4ac5be4f">
+  <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Certification" width="160" height="160">
+</a>
+
+[![Certification](https://images.credly.com/size/160x160/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/10f62c1f-69a3-4c7c-a4f9-18680d6f5bf1)
+[![Certification](https://images.credly.com/size/160x160/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/2bc1ad92-8818-497a-b563-31e78a032058)
+[![Certification](https://images.credly.com/size/160x160/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/fd51ba31-f364-4bd4-b0cd-d02032eff8b0)
+[![Certification](https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/1629652e-7817-4f31-bb04-83ca013b5b3d)
+[![Certification](https://images.credly.com/size/160x160/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/b3224f20-c0e4-4d61-a3ba-ed2040473f99)
+
+
+
+
 ### ⚡ Fun Fact
 
 I'm a travel enthusiast who enjoys exploring security and cloud and writing about them in my spare time! 😄
