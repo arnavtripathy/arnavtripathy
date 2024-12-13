@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+
+<div>
+    <img src="./assets/about_arnav.gif" alt="About Me Terminal GIF"/>
+</div>
 
 
 - 🔭 I’m currently working on ...
