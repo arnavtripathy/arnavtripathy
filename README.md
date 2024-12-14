@@ -84,7 +84,7 @@ Here are some of the certifications I've earned:
 
 ### ⚡ Fun Fact
 
-I'm a travel enthusiast who enjoys exploring security and cloud and writing about them in my spare time! 😄
+I'm a travel enthusiast and map geek who loves travelling in my spare time! 😄
 
 
 - ![Singapore](https://flagcdn.com/w40/sg.png) Singapore
