@@ -96,5 +96,6 @@ I'm a travel enthusiast and map geek who loves travelling in my spare time! 😄
 - ![Macau](https://flagcdn.com/w40/mo.png) Macau
 - ![Sri Lanka](https://flagcdn.com/w40/lk.png) Sri Lanka
 - ![Ireland](https://flagcdn.com/w40/ie.png) Ireland
+- ![Morocco](https://flagcdn.com/w40/ma.png) Morocco
 
 ---
